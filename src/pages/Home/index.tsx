@@ -227,6 +227,7 @@ const Home = (): React.ReactElement => {
                   <LinearProgress />
                 )
               }
+              <p>Selecione o cliente para buscar as dívidas</p>
             </FormControl>
 
 
