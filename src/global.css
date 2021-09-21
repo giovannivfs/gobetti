@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+
+body, h1, h2, h3, h4, p, a, b, label, input {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.font-default {
+  font-family: "Ubuntu", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: 'Ubuntu', sans-serif !important;
+}
+
+body {
+  font: 400 14px 'Ubuntu', sans-serif !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+input, button, textarea {
+  font: 400 18px 'Ubuntu', sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+.title {
+  font-size: 38px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.submit {
+  width: 230px;
+  margin-top: 15px !important;
+}
+
+.MuiDialog-paperFullWidth {
+  z-index: 999999999999999999999;
+}
