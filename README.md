@@ -1,6 +1,6 @@
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias e framework:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
